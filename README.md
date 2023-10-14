@@ -1,2 +1,1 @@
-# little_lemon
-Repository for little lemon website
+# My capstone project for the Meta Front-End Developer Professional Certificate
